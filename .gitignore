@@ -86,3 +86,6 @@ Dockerfile
 # Python venv / virtualenv configurations
 venv/
 env/
+
+# Ignore Hypothesis folder
+.hypothesis/
