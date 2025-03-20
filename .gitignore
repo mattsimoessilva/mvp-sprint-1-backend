@@ -1,0 +1,88 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+env/
+venv/
+.venv/
+ENV/
+.ENV/
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+
+# Python Wheel
+*.whl
+
+# pytest cache
+.pytest_cache/
+
+# coverage reports
+.coverage
+.coverage.*
+*.cover
+*.gcov
+*.gcda
+*.gcno
+
+# mypy
+.mypy_cache/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Django migrations
+migrations/
+
+# SQLite database files
+*.sqlite3
+
+# Django static files
+/static/
+
+# PyInstaller
+*.spec
+
+# VS Code settings
+.vscode/
+
+# macOS Finder metadata
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Flask app files
+instance/
+
+# Docker files
+docker-compose.yml
+Dockerfile
+
+# Local environment configuration files
+*.env
+.env
+.env.local
+
+# Logs
+*.log
+
+# IDE or editor-specific files
+*.swp
+*~
+
+# Python venv / virtualenv configurations
+venv/
+env/
